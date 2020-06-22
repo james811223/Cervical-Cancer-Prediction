@@ -51,6 +51,10 @@ Biopsy is a sample of tissue taken from the body in order to examine it more clo
 
 **Numerical Features**: Age, Number of sexual partners, First sexual intercourse, Num of pregnancies, Smokes (years), Smokes (packs/year), Hormonal Contraceptives (years), IUD (years), STDs (number), STDs: Number of diagnosis.
 
+### Data issues:
+* Missing Data
+* Imbalanced Data
+
 ## Machine learning models used or tried:
 * Random Forest
 * Boosted Decision Tree
