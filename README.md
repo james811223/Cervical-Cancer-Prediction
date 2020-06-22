@@ -1,4 +1,4 @@
-# Cervical-Cancer-Prediction
+# Cervical-Cancer-Risk-Factor-Analysis
 ### Machine Learning with Data Visualizations
 
 ## Summary:
