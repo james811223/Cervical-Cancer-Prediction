@@ -54,6 +54,7 @@ Biopsy is a sample of tissue taken from the body in order to examine it more clo
 ### Data issues:
 * Missing Data
 * Imbalanced Data
+* Skewed Data
 
 ## Machine learning models used or tried:
 * Random Forest
