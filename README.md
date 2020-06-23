@@ -6,10 +6,7 @@ Cervical cancer is a cancer that occurs at cervix of women. Cervix is the lower 
 
 This project looks at a data set of cervical cancer. The purpose is to see what are the risk factors for cervical cancer. Python is used for the analysis. The steps involved in the projects are: data import, data wrangling, EDA, data preprocessing, and modeling. 
 
-## Data:
-### Source:
-[Kaggle](https://archive.ics.uci.edu/ml/datasets/Cervical+cancer+%28Risk+Factors%29)
-
+## [Data](https://archive.ics.uci.edu/ml/datasets/Cervical+cancer+%28Risk+Factors%29):
 ### Meta data:
 * Age: Age of patients (Numeric)
 * Number of sexual partners: The number of sex partner (Numeric)
