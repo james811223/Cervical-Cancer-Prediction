@@ -2,7 +2,7 @@
 ### Machine Learning with Data Visualizations
 
 ## Abstract:
-Cervical cancer occurs at cervix of women. Cervix is the lower part of the uterus. It is caused by the HPV virus, which can be spread by sexual contact. Most of the time, women's body can fight off the virus by itself, but not all the time. The time when women's body can't fight off the virus, it can leads to cancer. Women can have different kind of medical test such as HPV test to check for abnormality. Cancer can be prevented by treating any problems before they become cancer.
+Cervical cancer occurs at cervix of women. Cervix is the lower part of the uterus. Cervical cancer is caused by the HPV virus, which can be spread by sexual contact. Most of the time, women's body can fight off the virus by itself, but not all the time. The time when women's body can't fight off the virus, it can lead to cancer. Women can have different kind of medical test such as HPV test to check for abnormality. Cancer can be prevented by treating any problems before they become cancer.
 
 This project looks at a data set of cervical cancer. The purpose is to see what are the risk factors for cervical cancer. Python is used for the analysis. The steps involved in the projects are: data import, data wrangling, EDA, data preprocessing, and modeling. 
 
