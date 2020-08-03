@@ -7,12 +7,10 @@
 * Hormonal Contraceptives (years)
 * IUD (years)
 * STDs (number)
-* Dx:CIN
-* Dx:HPV
 * Smokes
 ## Hyperparameters:
-{'criterion': 'entropy', 'min_samples_split': 2, 'n_estimators': 500}
+{'criterion': 'gini', 'min_samples_split': 2, 'n_estimators': 51}
 ## Performance metrics:
-Biopsy = 1 of the raw data is 55 out of 858 entries.  
-Recall (Biopsy = 1): 0.4  
-Accuracy: 0.79
+Dx:Cancer = 1 of the raw data is 18(2.7%) out of 858 entries.  
+Recall (Dx:Cancer = 1): 0.5  
+Accuracy: 93%
